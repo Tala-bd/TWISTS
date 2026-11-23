@@ -1,0 +1,47 @@
+h1 {
+    color: orange;
+    background-color: peachpuff;
+    text-align: center;
+}
+
+p {
+    color: gray;
+}
+
+.works {
+    color: coral;
+}
+
+#about {
+    background-color: peachpuff;
+    border: 2px solid silver;
+    
+}
+
+img {
+    border: 5px dashed lemonchiffon;
+    align-self: center;
+}
+
+h3 {
+    padding-block: 6px;
+    border: 3px dotted orange;
+   text-align: center;
+}
+
+body {
+    background-color: bisque;
+}
+
+#me {
+    column-count: 2;
+}
+
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.5;
+}
+
